@@ -6,3 +6,8 @@ The PLONK implementation consists of setup.py which contains the setup phase, pr
 The accompanying tutorial plonk_tutorial.ipynb is WIP and contains essentially the same code but explains the steps in some detail.
 
 Critique, contributions and suggestions are welcome.
+https://www.maya-zk.com/plonk-round1/round1.jpg
+https://www.maya-zk.com/plonk-round2/round2.png
+https://www.maya-zk.com/plonk-round3/round3.jpg
+https://www.maya-zk.com/plonk-round4/round4.jpg
+https://www.maya-zk.com/plonk-round5/round5.jpg
